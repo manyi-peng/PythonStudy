@@ -20,3 +20,6 @@ git commit -m "这里可以写一些提交的备注信息"
 git add 如何使用git.txt
 git commit -m ""
 
+第五步：查看日志
+命令：
+git log
