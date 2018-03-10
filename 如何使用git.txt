@@ -1,0 +1,15 @@
+第一步：安装git，在官网下载安装包之后直接安装，安装成功后做最后的设置。
+命令：
+git config --global user.name "pengmanyi"
+git config --global user.email "manyistring@163.com"
+
+第二部：创建仓库
+命令：
+cd 你本地的目录
+git init
+两个命令完成仓库创建
+
+第三部：上传文件
+命令：
+git add readme.txt
+git commit -m "这里可以写一些提交的备注信息"
