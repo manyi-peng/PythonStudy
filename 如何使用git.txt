@@ -3,19 +3,20 @@
 git config --global user.name "pengmanyi"
 git config --global user.email "manyistring@163.com"
 
-第二部：创建仓库
+第二步：创建仓库
 命令：
 cd 你本地的目录
 git init
 两个命令完成仓库创建
 
-第三部：上传文件
+第三步：上传文件
 命令：
 git add readme.txt
 git commit -m "这里可以写一些提交的备注信息"
 
-第四部：版本回退
+第四步：版本回退
 修改“如何使用git.txt"文件，然后提交
 命令：
 git add 如何使用git.txt
 git commit -m ""
+
