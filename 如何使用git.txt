@@ -28,3 +28,7 @@ git log
 命令：
 git remote add origin https://github.com/manyi-peng/PythonStudy.git
 git push -u origin master
+
+第七步：后续将本地仓库内容提交到github上
+命令：
+git push origin master
