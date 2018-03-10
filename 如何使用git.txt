@@ -15,3 +15,7 @@ git add readme.txt
 git commit -m "这里可以写一些提交的备注信息"
 
 第四部：版本回退
+修改“如何使用git.txt"文件，然后提交
+命令：
+git add 如何使用git.txt
+git commit -m ""
