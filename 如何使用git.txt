@@ -23,3 +23,8 @@ git commit -m ""
 第五步：查看日志
 命令：
 git log
+
+第六步：将本地仓库提交到git仓库
+命令：
+git remote add origin https://github.com/manyi-peng/PythonStudy.git
+git push -u origin master
